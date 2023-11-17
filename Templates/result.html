@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investment Result</title>
+</head>
+<body>
+    <h1>Investment Result</h1>
+
+    <h3>User Input:</h3>
+    <p><strong>Gender:</strong> {{ request.form['gender'] }}</p>
+    <p><strong>Age:</strong> {{ request.form['age'] }}</p>
+    <p><strong>Salary:</strong> {{ request.form['salary'] }}</p>
+    <p><strong>Amount To Be Invested:</strong> {{ request.form['amount_to_be_invested'] }}</p>
+    <p><strong>Number Of Children:</strong> {{ request.form['num_children'] }}</p>
+    <p><strong>Domain Of Expertise:</strong> {{ request.form['domain_of_expertise'] }}</p>
+
+    <h3>Investment Prediction:</h3>
+    <p>The predicted investment is: {{ prediction }}</p>
+</body>
+</html>

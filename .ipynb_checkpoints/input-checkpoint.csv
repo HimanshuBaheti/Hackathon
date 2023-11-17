@@ -1,0 +1,201 @@
+id,Gender,Salary,Amount To Be Invested,Number Of Children,Domain Of Expertise,Invested In
+1,Female,8000000,500000,2,Automobile Industry,Mutual Funds and Stocks
+2,Male,8000000,300000,2,Medicine,Government Schemes
+3,Female,8000000,500000,2,Finance,Bank FDs
+4,Female,5000000,200000,2,IT,Bank FDs
+5,Female,3000000,200000,2,Automobile Industry,Bank FDs
+6,Male,2000000,300000,1,Automobile Industry,Private Bank Investment
+7,Female,8000000,200000,2,Automobile Industry,Private Bank Investment
+8,Female,2000000,500000,2,Finance,Bank FDs
+9,Male,3000000,500000,1,Automobile Industry,Bank FDs
+10,Female,10000000,200000,1,Finance,Bank FDs
+11,Female,3000000,200000,1,Legal,Bank FDs
+12,Male,2000000,300000,1,IT,Bank FDs
+13,Male,3000000,200000,2,Legal,Private Bank Investment
+14,Female,3000000,200000,1,Medicine,Private Bank Investment
+15,Female,5000000,200000,1,Automobile Industry,Mutual Funds and Stocks
+16,Male,2000000,300000,1,Legal,Private Bank Investment
+17,Female,8000000,300000,1,Automobile Industry,Bank FDs
+18,Female,5000000,300000,1,Finance,Government Schemes
+19,Female,10000000,200000,1,Finance,Private Bank Investment
+20,Male,3000000,500000,2,Legal,Government Schemes
+21,Female,10000000,500000,1,IT,Government Schemes
+22,Female,3000000,300000,2,Automobile Industry,Mutual Funds and Stocks
+23,Male,5000000,300000,1,Finance,Bank FDs
+24,Female,5000000,500000,2,Legal,Mutual Funds and Stocks
+25,Female,3000000,500000,2,IT,Government Schemes
+26,Female,8000000,200000,2,Medicine,Private Bank Investment
+27,Female,10000000,300000,1,Automobile Industry,Private Bank Investment
+28,Female,10000000,500000,1,Legal,Government Schemes
+29,Female,2000000,500000,1,Automobile Industry,Bank FDs
+30,Male,10000000,500000,1,IT,Private Bank Investment
+31,Male,2000000,200000,1,Legal,Mutual Funds and Stocks
+32,Male,10000000,200000,2,Legal,Private Bank Investment
+33,Male,8000000,500000,1,Legal,Private Bank Investment
+34,Female,10000000,500000,2,IT,Mutual Funds and Stocks
+35,Male,3000000,300000,2,Automobile Industry,Bank FDs
+36,Female,8000000,500000,2,Automobile Industry,Mutual Funds and Stocks
+37,Male,5000000,300000,1,Legal,Private Bank Investment
+38,Male,8000000,300000,2,Medicine,Government Schemes
+39,Female,8000000,200000,1,IT,Government Schemes
+40,Male,10000000,500000,1,Medicine,Private Bank Investment
+41,Female,2000000,300000,2,Legal,Mutual Funds and Stocks
+42,Female,5000000,500000,1,Legal,Bank FDs
+43,Male,3000000,300000,1,IT,Bank FDs
+44,Female,5000000,500000,1,Automobile Industry,Government Schemes
+45,Female,3000000,200000,2,Legal,Government Schemes
+46,Male,5000000,500000,2,Finance,Private Bank Investment
+47,Female,5000000,500000,2,IT,Private Bank Investment
+48,Female,2000000,500000,1,Medicine,Bank FDs
+49,Male,8000000,200000,2,Legal,Private Bank Investment
+50,Male,8000000,200000,1,IT,Mutual Funds and Stocks
+51,Female,5000000,500000,2,Automobile Industry,Private Bank Investment
+52,Female,2000000,300000,1,IT,Mutual Funds and Stocks
+53,Male,10000000,200000,1,Medicine,Bank FDs
+54,Female,2000000,300000,1,IT,Bank FDs
+55,Male,5000000,200000,2,Legal,Government Schemes
+56,Male,8000000,500000,1,Automobile Industry,Government Schemes
+57,Male,8000000,200000,2,IT,Government Schemes
+58,Female,3000000,200000,1,Legal,Mutual Funds and Stocks
+59,Male,10000000,300000,1,Finance,Mutual Funds and Stocks
+60,Female,5000000,500000,1,IT,Private Bank Investment
+61,Male,3000000,200000,1,Automobile Industry,Bank FDs
+62,Female,3000000,500000,2,Medicine,Bank FDs
+63,Female,5000000,500000,2,Medicine,Government Schemes
+64,Male,5000000,200000,2,Medicine,Private Bank Investment
+65,Female,5000000,200000,1,Automobile Industry,Bank FDs
+66,Female,10000000,200000,1,IT,Private Bank Investment
+67,Male,2000000,300000,1,Finance,Government Schemes
+68,Male,10000000,300000,1,Finance,Mutual Funds and Stocks
+69,Female,2000000,200000,1,Medicine,Government Schemes
+70,Male,3000000,500000,1,IT,Mutual Funds and Stocks
+71,Female,5000000,200000,1,IT,Mutual Funds and Stocks
+72,Female,10000000,300000,2,Finance,Private Bank Investment
+73,Female,3000000,500000,2,Medicine,Private Bank Investment
+74,Male,8000000,300000,1,IT,Mutual Funds and Stocks
+75,Female,8000000,200000,2,Automobile Industry,Private Bank Investment
+76,Male,5000000,300000,1,Medicine,Government Schemes
+77,Female,10000000,300000,1,IT,Bank FDs
+78,Female,10000000,200000,1,Finance,Bank FDs
+79,Male,2000000,300000,2,Medicine,Government Schemes
+80,Female,8000000,300000,2,Legal,Private Bank Investment
+81,Female,10000000,500000,2,Legal,Government Schemes
+82,Male,10000000,300000,1,Automobile Industry,Bank FDs
+83,Female,10000000,200000,1,Legal,Government Schemes
+84,Male,5000000,500000,1,Medicine,Mutual Funds and Stocks
+85,Male,2000000,200000,1,Medicine,Private Bank Investment
+86,Male,10000000,500000,2,Finance,Bank FDs
+87,Male,5000000,300000,1,Legal,Government Schemes
+88,Male,2000000,300000,2,Automobile Industry,Mutual Funds and Stocks
+89,Male,8000000,200000,1,Legal,Bank FDs
+90,Male,3000000,200000,1,Automobile Industry,Private Bank Investment
+91,Male,2000000,200000,1,Legal,Mutual Funds and Stocks
+92,Male,8000000,300000,2,Medicine,Private Bank Investment
+93,Male,3000000,300000,2,Automobile Industry,Mutual Funds and Stocks
+94,Female,10000000,200000,1,Legal,Government Schemes
+95,Female,10000000,300000,2,Automobile Industry,Government Schemes
+96,Male,8000000,500000,2,IT,Mutual Funds and Stocks
+97,Male,10000000,200000,1,Finance,Bank FDs
+98,Male,5000000,500000,1,Automobile Industry,Bank FDs
+99,Female,2000000,300000,1,Legal,Private Bank Investment
+100,Male,3000000,300000,2,IT,Government Schemes
+101,Female,10000000,500000,2,Legal,Mutual Funds and Stocks
+102,Female,10000000,300000,2,Medicine,Mutual Funds and Stocks
+103,Female,8000000,300000,1,Finance,Government Schemes
+104,Female,2000000,300000,2,Automobile Industry,Bank FDs
+105,Male,2000000,200000,2,Medicine,Mutual Funds and Stocks
+106,Male,5000000,500000,2,Medicine,Bank FDs
+107,Male,2000000,300000,1,Legal,Government Schemes
+108,Male,8000000,300000,2,Automobile Industry,Mutual Funds and Stocks
+109,Male,3000000,300000,1,Automobile Industry,Private Bank Investment
+110,Male,3000000,300000,1,Legal,Government Schemes
+111,Female,8000000,500000,2,Medicine,Government Schemes
+112,Male,2000000,200000,1,IT,Mutual Funds and Stocks
+113,Male,10000000,500000,1,IT,Mutual Funds and Stocks
+114,Male,10000000,500000,1,Finance,Bank FDs
+115,Female,5000000,300000,1,Medicine,Private Bank Investment
+116,Male,5000000,200000,1,Finance,Government Schemes
+117,Female,3000000,300000,1,IT,Government Schemes
+118,Female,3000000,500000,2,Finance,Bank FDs
+119,Female,3000000,500000,1,IT,Bank FDs
+120,Female,10000000,300000,1,Medicine,Bank FDs
+121,Male,10000000,200000,1,Automobile Industry,Mutual Funds and Stocks
+122,Female,5000000,500000,1,Medicine,Private Bank Investment
+123,Female,3000000,500000,1,IT,Private Bank Investment
+124,Male,2000000,300000,1,Medicine,Mutual Funds and Stocks
+125,Female,5000000,300000,1,Legal,Private Bank Investment
+126,Male,5000000,200000,1,Automobile Industry,Private Bank Investment
+127,Male,3000000,300000,2,Finance,Mutual Funds and Stocks
+128,Female,3000000,200000,1,Automobile Industry,Government Schemes
+129,Male,3000000,300000,2,Legal,Bank FDs
+130,Male,10000000,300000,1,Automobile Industry,Mutual Funds and Stocks
+131,Female,8000000,200000,1,Medicine,Government Schemes
+132,Male,8000000,300000,1,Legal,Mutual Funds and Stocks
+133,Male,3000000,500000,2,Medicine,Bank FDs
+134,Female,8000000,200000,2,Finance,Government Schemes
+135,Female,5000000,500000,1,IT,Mutual Funds and Stocks
+136,Female,8000000,200000,2,IT,Government Schemes
+137,Female,2000000,500000,2,Medicine,Mutual Funds and Stocks
+138,Female,8000000,300000,1,Automobile Industry,Private Bank Investment
+139,Female,2000000,200000,2,Automobile Industry,Mutual Funds and Stocks
+140,Female,2000000,300000,2,Legal,Private Bank Investment
+141,Female,8000000,300000,2,IT,Private Bank Investment
+142,Male,2000000,500000,1,Automobile Industry,Mutual Funds and Stocks
+143,Male,3000000,200000,2,Finance,Bank FDs
+144,Female,10000000,500000,1,Legal,Private Bank Investment
+145,Male,8000000,300000,2,Medicine,Mutual Funds and Stocks
+146,Female,5000000,300000,1,IT,Private Bank Investment
+147,Male,8000000,500000,2,IT,Bank FDs
+148,Male,8000000,300000,1,Finance,Mutual Funds and Stocks
+149,Male,3000000,300000,1,Finance,Bank FDs
+150,Female,10000000,300000,1,Finance,Private Bank Investment
+151,Male,2000000,200000,1,Medicine,Private Bank Investment
+152,Male,3000000,500000,1,IT,Mutual Funds and Stocks
+153,Male,2000000,500000,1,IT,Private Bank Investment
+154,Male,2000000,200000,2,IT,Private Bank Investment
+155,Male,10000000,200000,1,IT,Private Bank Investment
+156,Male,2000000,200000,1,Automobile Industry,Private Bank Investment
+157,Female,2000000,500000,1,Legal,Private Bank Investment
+158,Male,5000000,500000,2,Finance,Mutual Funds and Stocks
+159,Female,5000000,200000,1,Medicine,Mutual Funds and Stocks
+160,Male,8000000,200000,2,Medicine,Bank FDs
+161,Female,8000000,500000,1,Legal,Private Bank Investment
+162,Male,8000000,500000,2,IT,Private Bank Investment
+163,Female,10000000,200000,1,Medicine,Mutual Funds and Stocks
+164,Male,5000000,500000,2,Medicine,Bank FDs
+165,Male,3000000,300000,2,Finance,Government Schemes
+166,Male,10000000,300000,2,Legal,Bank FDs
+167,Male,8000000,500000,2,IT,Mutual Funds and Stocks
+168,Female,2000000,500000,2,Finance,Government Schemes
+169,Female,5000000,500000,2,Legal,Government Schemes
+170,Female,3000000,500000,2,Legal,Mutual Funds and Stocks
+171,Male,3000000,500000,1,Automobile Industry,Mutual Funds and Stocks
+172,Male,10000000,300000,2,Legal,Government Schemes
+173,Male,5000000,300000,1,IT,Mutual Funds and Stocks
+174,Female,10000000,200000,2,Automobile Industry,Private Bank Investment
+175,Male,3000000,300000,1,IT,Bank FDs
+176,Male,2000000,200000,2,Medicine,Private Bank Investment
+177,Male,10000000,200000,2,Automobile Industry,Bank FDs
+178,Male,2000000,200000,1,Medicine,Bank FDs
+179,Male,5000000,500000,1,Legal,Private Bank Investment
+180,Female,8000000,200000,2,Medicine,Mutual Funds and Stocks
+181,Male,2000000,300000,1,Finance,Private Bank Investment
+182,Female,5000000,200000,1,IT,Private Bank Investment
+183,Female,2000000,300000,2,Legal,Government Schemes
+184,Female,2000000,300000,2,IT,Government Schemes
+185,Male,2000000,300000,1,Automobile Industry,Government Schemes
+186,Female,10000000,300000,1,Legal,Government Schemes
+187,Female,2000000,300000,2,Legal,Government Schemes
+188,Female,3000000,300000,2,IT,Government Schemes
+189,Female,8000000,300000,2,Finance,Private Bank Investment
+190,Female,5000000,500000,2,Legal,Private Bank Investment
+191,Male,5000000,200000,1,Finance,Private Bank Investment
+192,Female,8000000,500000,1,IT,Bank FDs
+193,Male,3000000,500000,1,Finance,Mutual Funds and Stocks
+194,Female,10000000,300000,2,Legal,Government Schemes
+195,Female,5000000,200000,2,IT,Private Bank Investment
+196,Female,5000000,300000,2,Finance,Mutual Funds and Stocks
+197,Male,5000000,500000,1,Medicine,Government Schemes
+198,Female,10000000,300000,2,IT,Private Bank Investment
+199,Female,5000000,500000,2,Automobile Industry,Bank FDs
+200,Female,3000000,300000,1,Legal,Bank FDs

@@ -1,0 +1,201 @@
+id,Gender,Salary,Amount To Be Invested,Number Of Children,Domain Of Expertise,Invested In,Risk Analysis,Return Rate
+1,Female,8000000,500000,2,Automobile Industry,Mutual Funds and Stocks,High,High
+2,Male,8000000,300000,2,Medicine,Government Schemes,Low,Medium
+3,Female,8000000,500000,2,Finance,Bank FDs,Low,Medium
+4,Female,5000000,200000,2,IT,Bank FDs,Low,Medium
+5,Female,3000000,200000,2,Automobile Industry,Bank FDs,Low,Medium
+6,Male,2000000,300000,1,Automobile Industry,Private Bank Investment,Medium,Medium
+7,Female,8000000,200000,2,Automobile Industry,Private Bank Investment,Medium,Medium
+8,Female,2000000,500000,2,Finance,Bank FDs,Low,Medium
+9,Male,3000000,500000,1,Automobile Industry,Bank FDs,Low,Medium
+10,Female,10000000,200000,1,Finance,Bank FDs,Low,Medium
+11,Female,3000000,200000,1,Legal,Bank FDs,Low,Medium
+12,Male,2000000,300000,1,IT,Bank FDs,Low,Medium
+13,Male,3000000,200000,2,Legal,Private Bank Investment,Medium,Medium
+14,Female,3000000,200000,1,Medicine,Private Bank Investment,Medium,Medium
+15,Female,5000000,200000,1,Automobile Industry,Mutual Funds and Stocks,High,High
+16,Male,2000000,300000,1,Legal,Private Bank Investment,Medium,Medium
+17,Female,8000000,300000,1,Automobile Industry,Bank FDs,Low,Medium
+18,Female,5000000,300000,1,Finance,Government Schemes,Low,Medium
+19,Female,10000000,200000,1,Finance,Private Bank Investment,Medium,Medium
+20,Male,3000000,500000,2,Legal,Government Schemes,Low,Medium
+21,Female,10000000,500000,1,IT,Government Schemes,Low,Medium
+22,Female,3000000,300000,2,Automobile Industry,Mutual Funds and Stocks,High,High
+23,Male,5000000,300000,1,Finance,Bank FDs,Low,Medium
+24,Female,5000000,500000,2,Legal,Mutual Funds and Stocks,High,High
+25,Female,3000000,500000,2,IT,Government Schemes,Low,Medium
+26,Female,8000000,200000,2,Medicine,Private Bank Investment,Medium,Medium
+27,Female,10000000,300000,1,Automobile Industry,Private Bank Investment,Medium,Medium
+28,Female,10000000,500000,1,Legal,Government Schemes,Low,Medium
+29,Female,2000000,500000,1,Automobile Industry,Bank FDs,Low,Medium
+30,Male,10000000,500000,1,IT,Private Bank Investment,Medium,Medium
+31,Male,2000000,200000,1,Legal,Mutual Funds and Stocks,High,High
+32,Male,10000000,200000,2,Legal,Private Bank Investment,Medium,Medium
+33,Male,8000000,500000,1,Legal,Private Bank Investment,Medium,Medium
+34,Female,10000000,500000,2,IT,Mutual Funds and Stocks,High,High
+35,Male,3000000,300000,2,Automobile Industry,Bank FDs,Low,Medium
+36,Female,8000000,500000,2,Automobile Industry,Mutual Funds and Stocks,High,High
+37,Male,5000000,300000,1,Legal,Private Bank Investment,Medium,Medium
+38,Male,8000000,300000,2,Medicine,Government Schemes,Low,Medium
+39,Female,8000000,200000,1,IT,Government Schemes,Low,Medium
+40,Male,10000000,500000,1,Medicine,Private Bank Investment,Medium,Medium
+41,Female,2000000,300000,2,Legal,Mutual Funds and Stocks,High,High
+42,Female,5000000,500000,1,Legal,Bank FDs,Low,Medium
+43,Male,3000000,300000,1,IT,Bank FDs,Low,Medium
+44,Female,5000000,500000,1,Automobile Industry,Government Schemes,Low,Medium
+45,Female,3000000,200000,2,Legal,Government Schemes,Low,Medium
+46,Male,5000000,500000,2,Finance,Private Bank Investment,Medium,Medium
+47,Female,5000000,500000,2,IT,Private Bank Investment,Medium,Medium
+48,Female,2000000,500000,1,Medicine,Bank FDs,Low,Medium
+49,Male,8000000,200000,2,Legal,Private Bank Investment,Medium,Medium
+50,Male,8000000,200000,1,IT,Mutual Funds and Stocks,High,High
+51,Female,5000000,500000,2,Automobile Industry,Private Bank Investment,Medium,Medium
+52,Female,2000000,300000,1,IT,Mutual Funds and Stocks,High,High
+53,Male,10000000,200000,1,Medicine,Bank FDs,Low,Medium
+54,Female,2000000,300000,1,IT,Bank FDs,Low,Medium
+55,Male,5000000,200000,2,Legal,Government Schemes,Low,Medium
+56,Male,8000000,500000,1,Automobile Industry,Government Schemes,Low,Medium
+57,Male,8000000,200000,2,IT,Government Schemes,Low,Medium
+58,Female,3000000,200000,1,Legal,Mutual Funds and Stocks,High,High
+59,Male,10000000,300000,1,Finance,Mutual Funds and Stocks,High,High
+60,Female,5000000,500000,1,IT,Private Bank Investment,Medium,Medium
+61,Male,3000000,200000,1,Automobile Industry,Bank FDs,Low,Medium
+62,Female,3000000,500000,2,Medicine,Bank FDs,Low,Medium
+63,Female,5000000,500000,2,Medicine,Government Schemes,Low,Medium
+64,Male,5000000,200000,2,Medicine,Private Bank Investment,Medium,Medium
+65,Female,5000000,200000,1,Automobile Industry,Bank FDs,Low,Medium
+66,Female,10000000,200000,1,IT,Private Bank Investment,Medium,Medium
+67,Male,2000000,300000,1,Finance,Government Schemes,Low,Medium
+68,Male,10000000,300000,1,Finance,Mutual Funds and Stocks,High,High
+69,Female,2000000,200000,1,Medicine,Government Schemes,Low,Medium
+70,Male,3000000,500000,1,IT,Mutual Funds and Stocks,High,High
+71,Female,5000000,200000,1,IT,Mutual Funds and Stocks,High,High
+72,Female,10000000,300000,2,Finance,Private Bank Investment,Medium,Medium
+73,Female,3000000,500000,2,Medicine,Private Bank Investment,Medium,Medium
+74,Male,8000000,300000,1,IT,Mutual Funds and Stocks,High,High
+75,Female,8000000,200000,2,Automobile Industry,Private Bank Investment,Medium,Medium
+76,Male,5000000,300000,1,Medicine,Government Schemes,Low,Medium
+77,Female,10000000,300000,1,IT,Bank FDs,Low,Medium
+78,Female,10000000,200000,1,Finance,Bank FDs,Low,Medium
+79,Male,2000000,300000,2,Medicine,Government Schemes,Low,Medium
+80,Female,8000000,300000,2,Legal,Private Bank Investment,Medium,Medium
+81,Female,10000000,500000,2,Legal,Government Schemes,Low,Medium
+82,Male,10000000,300000,1,Automobile Industry,Bank FDs,Low,Medium
+83,Female,10000000,200000,1,Legal,Government Schemes,Low,Medium
+84,Male,5000000,500000,1,Medicine,Mutual Funds and Stocks,High,High
+85,Male,2000000,200000,1,Medicine,Private Bank Investment,Medium,Medium
+86,Male,10000000,500000,2,Finance,Bank FDs,Low,Medium
+87,Male,5000000,300000,1,Legal,Government Schemes,Low,Medium
+88,Male,2000000,300000,2,Automobile Industry,Mutual Funds and Stocks,High,High
+89,Male,8000000,200000,1,Legal,Bank FDs,Low,Medium
+90,Male,3000000,200000,1,Automobile Industry,Private Bank Investment,Medium,Medium
+91,Male,2000000,200000,1,Legal,Mutual Funds and Stocks,High,High
+92,Male,8000000,300000,2,Medicine,Private Bank Investment,Medium,Medium
+93,Male,3000000,300000,2,Automobile Industry,Mutual Funds and Stocks,High,High
+94,Female,10000000,200000,1,Legal,Government Schemes,Low,Medium
+95,Female,10000000,300000,2,Automobile Industry,Government Schemes,Low,Medium
+96,Male,8000000,500000,2,IT,Mutual Funds and Stocks,High,High
+97,Male,10000000,200000,1,Finance,Bank FDs,Low,Medium
+98,Male,5000000,500000,1,Automobile Industry,Bank FDs,Low,Medium
+99,Female,2000000,300000,1,Legal,Private Bank Investment,Medium,Medium
+100,Male,3000000,300000,2,IT,Government Schemes,Low,Medium
+101,Female,10000000,500000,2,Legal,Mutual Funds and Stocks,High,High
+102,Female,10000000,300000,2,Medicine,Mutual Funds and Stocks,High,High
+103,Female,8000000,300000,1,Finance,Government Schemes,Low,Medium
+104,Female,2000000,300000,2,Automobile Industry,Bank FDs,Low,Medium
+105,Male,2000000,200000,2,Medicine,Mutual Funds and Stocks,High,High
+106,Male,5000000,500000,2,Medicine,Bank FDs,Low,Medium
+107,Male,2000000,300000,1,Legal,Government Schemes,Low,Medium
+108,Male,8000000,300000,2,Automobile Industry,Mutual Funds and Stocks,High,High
+109,Male,3000000,300000,1,Automobile Industry,Private Bank Investment,Medium,Medium
+110,Male,3000000,300000,1,Legal,Government Schemes,Low,Medium
+111,Female,8000000,500000,2,Medicine,Government Schemes,Low,Medium
+112,Male,2000000,200000,1,IT,Mutual Funds and Stocks,High,High
+113,Male,10000000,500000,1,IT,Mutual Funds and Stocks,High,High
+114,Male,10000000,500000,1,Finance,Bank FDs,Low,Medium
+115,Female,5000000,300000,1,Medicine,Private Bank Investment,Medium,Medium
+116,Male,5000000,200000,1,Finance,Government Schemes,Low,Medium
+117,Female,3000000,300000,1,IT,Government Schemes,Low,Medium
+118,Female,3000000,500000,2,Finance,Bank FDs,Low,Medium
+119,Female,3000000,500000,1,IT,Bank FDs,Low,Medium
+120,Female,10000000,300000,1,Medicine,Bank FDs,Low,Medium
+121,Male,10000000,200000,1,Automobile Industry,Mutual Funds and Stocks,High,High
+122,Female,5000000,500000,1,Medicine,Private Bank Investment,Medium,Medium
+123,Female,3000000,500000,1,IT,Private Bank Investment,Medium,Medium
+124,Male,2000000,300000,1,Medicine,Mutual Funds and Stocks,High,High
+125,Female,5000000,300000,1,Legal,Private Bank Investment,Medium,Medium
+126,Male,5000000,200000,1,Automobile Industry,Private Bank Investment,Medium,Medium
+127,Male,3000000,300000,2,Finance,Mutual Funds and Stocks,High,High
+128,Female,3000000,200000,1,Automobile Industry,Government Schemes,Low,Medium
+129,Male,3000000,300000,2,Legal,Bank FDs,Low,Medium
+130,Male,10000000,300000,1,Automobile Industry,Mutual Funds and Stocks,High,High
+131,Female,8000000,200000,1,Medicine,Government Schemes,Low,Medium
+132,Male,8000000,300000,1,Legal,Mutual Funds and Stocks,High,High
+133,Male,3000000,500000,2,Medicine,Bank FDs,Low,Medium
+134,Female,8000000,200000,2,Finance,Government Schemes,Low,Medium
+135,Female,5000000,500000,1,IT,Mutual Funds and Stocks,High,High
+136,Female,8000000,200000,2,IT,Government Schemes,Low,Medium
+137,Female,2000000,500000,2,Medicine,Mutual Funds and Stocks,High,High
+138,Female,8000000,300000,1,Automobile Industry,Private Bank Investment,Medium,Medium
+139,Female,2000000,200000,2,Automobile Industry,Mutual Funds and Stocks,High,High
+140,Female,2000000,300000,2,Legal,Private Bank Investment,Medium,Medium
+141,Female,8000000,300000,2,IT,Private Bank Investment,Medium,Medium
+142,Male,2000000,500000,1,Automobile Industry,Mutual Funds and Stocks,High,High
+143,Male,3000000,200000,2,Finance,Bank FDs,Low,Medium
+144,Female,10000000,500000,1,Legal,Private Bank Investment,Medium,Medium
+145,Male,8000000,300000,2,Medicine,Mutual Funds and Stocks,High,High
+146,Female,5000000,300000,1,IT,Private Bank Investment,Medium,Medium
+147,Male,8000000,500000,2,IT,Bank FDs,Low,Medium
+148,Male,8000000,300000,1,Finance,Mutual Funds and Stocks,High,High
+149,Male,3000000,300000,1,Finance,Bank FDs,Low,Medium
+150,Female,10000000,300000,1,Finance,Private Bank Investment,Medium,Medium
+151,Male,2000000,200000,1,Medicine,Private Bank Investment,Medium,Medium
+152,Male,3000000,500000,1,IT,Mutual Funds and Stocks,High,High
+153,Male,2000000,500000,1,IT,Private Bank Investment,Medium,Medium
+154,Male,2000000,200000,2,IT,Private Bank Investment,Medium,Medium
+155,Male,10000000,200000,1,IT,Private Bank Investment,Medium,Medium
+156,Male,2000000,200000,1,Automobile Industry,Private Bank Investment,Medium,Medium
+157,Female,2000000,500000,1,Legal,Private Bank Investment,Medium,Medium
+158,Male,5000000,500000,2,Finance,Mutual Funds and Stocks,High,High
+159,Female,5000000,200000,1,Medicine,Mutual Funds and Stocks,High,High
+160,Male,8000000,200000,2,Medicine,Bank FDs,Low,Medium
+161,Female,8000000,500000,1,Legal,Private Bank Investment,Medium,Medium
+162,Male,8000000,500000,2,IT,Private Bank Investment,Medium,Medium
+163,Female,10000000,200000,1,Medicine,Mutual Funds and Stocks,High,High
+164,Male,5000000,500000,2,Medicine,Bank FDs,Low,Medium
+165,Male,3000000,300000,2,Finance,Government Schemes,Low,Medium
+166,Male,10000000,300000,2,Legal,Bank FDs,Low,Medium
+167,Male,8000000,500000,2,IT,Mutual Funds and Stocks,High,High
+168,Female,2000000,500000,2,Finance,Government Schemes,Low,Medium
+169,Female,5000000,500000,2,Legal,Government Schemes,Low,Medium
+170,Female,3000000,500000,2,Legal,Mutual Funds and Stocks,High,High
+171,Male,3000000,500000,1,Automobile Industry,Mutual Funds and Stocks,High,High
+172,Male,10000000,300000,2,Legal,Government Schemes,Low,Medium
+173,Male,5000000,300000,1,IT,Mutual Funds and Stocks,High,High
+174,Female,10000000,200000,2,Automobile Industry,Private Bank Investment,Medium,Medium
+175,Male,3000000,300000,1,IT,Bank FDs,Low,Medium
+176,Male,2000000,200000,2,Medicine,Private Bank Investment,Medium,Medium
+177,Male,10000000,200000,2,Automobile Industry,Bank FDs,Low,Medium
+178,Male,2000000,200000,1,Medicine,Bank FDs,Low,Medium
+179,Male,5000000,500000,1,Legal,Private Bank Investment,Medium,Medium
+180,Female,8000000,200000,2,Medicine,Mutual Funds and Stocks,High,High
+181,Male,2000000,300000,1,Finance,Private Bank Investment,Medium,Medium
+182,Female,5000000,200000,1,IT,Private Bank Investment,Medium,Medium
+183,Female,2000000,300000,2,Legal,Government Schemes,Low,Medium
+184,Female,2000000,300000,2,IT,Government Schemes,Low,Medium
+185,Male,2000000,300000,1,Automobile Industry,Government Schemes,Low,Medium
+186,Female,10000000,300000,1,Legal,Government Schemes,Low,Medium
+187,Female,2000000,300000,2,Legal,Government Schemes,Low,Medium
+188,Female,3000000,300000,2,IT,Government Schemes,Low,Medium
+189,Female,8000000,300000,2,Finance,Private Bank Investment,Medium,Medium
+190,Female,5000000,500000,2,Legal,Private Bank Investment,Medium,Medium
+191,Male,5000000,200000,1,Finance,Private Bank Investment,Medium,Medium
+192,Female,8000000,500000,1,IT,Bank FDs,Low,Medium
+193,Male,3000000,500000,1,Finance,Mutual Funds and Stocks,High,High
+194,Female,10000000,300000,2,Legal,Government Schemes,Low,Medium
+195,Female,5000000,200000,2,IT,Private Bank Investment,Medium,Medium
+196,Female,5000000,300000,2,Finance,Mutual Funds and Stocks,High,High
+197,Male,5000000,500000,1,Medicine,Government Schemes,Low,Medium
+198,Female,10000000,300000,2,IT,Private Bank Investment,Medium,Medium
+199,Female,5000000,500000,2,Automobile Industry,Bank FDs,Low,Medium
+200,Female,3000000,300000,1,Legal,Bank FDs,Low,Medium

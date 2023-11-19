@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Recommendations</title>
+</head>
+<body>
+    <h2>Top Job Recommendations:</h2>
+    <p>User Keywords: {{ user_keywords }}</p>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Job Title</th>
+                <th>Key Skills</th>
+                <th>Role Category</th>
+                <th>Location</th>
+                <th>Functional Area</th>
+                <th>Industry</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for index, job in top_jobs.iterrows() %}
+                <tr>
+                    <td>{{ job['Job Title'] }}</td>
+                    <td>{{ job['Key Skills'] }}</td>
+                    <td>{{ job['Role Category'] }}</td>
+                    <td>{{ job['Location'] }}</td>
+                    <td>{{ job['Functional Area'] }}</td>
+                    <td>{{ job['Industry'] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
